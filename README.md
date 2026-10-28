@@ -1,3 +1,5 @@
+> **Moved.** This plugin now lives in [heliowap/opencode-plugins](https://github.com/heliowap/opencode-plugins/tree/main/plugins/model-policy). Install: `opencode plugin add 'github:heliowap/opencode-plugins#main::path:plugins/model-policy'`. This repository is archived.
+
 # opencode-v2-model-policy
 
 OpenCode 2 plugin that enforces which model a subagent runs on, per agent, with
